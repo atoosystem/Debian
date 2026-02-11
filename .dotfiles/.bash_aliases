@@ -40,7 +40,7 @@ alias vi='vim'
 alias vinet='sudo vi /etc/network/interfaces'
 
 # Réseau
-alias ipa= 'ip -c a' 
+alias ipa='ip -c a' 
 alias ping="ping -c 4"
 alias ports='netstat -tulanp'
 alias listen='sudo lsof -nP -iTCP -sTCP:LISTEN'
