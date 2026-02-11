@@ -6,5 +6,6 @@ Collection de Fichiers, de notes et de scripts pour automatiser certains process
 - Alias personnalisés [.bash_aliases](.dotfiles/.bash_aliases) 
 
 ## Notes :
+- [Script Bash](notes/bash.md)
 - [Dns Bind9](notes/dns_bind9.md)  
 - [DHCP ISC](notes/dhcp_isc.md)  
